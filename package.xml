@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Panda's Baby Mob Mod</title>
+  <id>Mod_PandaBabyMobMod</id>
+  <author>Now Happy Panda</author>
+  <loadPriority>100</loadPriority>
+  <description>Add several baby version of mobs: Silver Bell, Gold Bell, Metal Putit</description>
+  <version>0.23.129</version>
+</Meta>
